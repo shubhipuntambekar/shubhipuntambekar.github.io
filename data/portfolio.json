@@ -1,0 +1,101 @@
+{
+  "title": "Shubhi Puntambekar | Portfolio",
+  "description": "Software Engineer & Developer",
+  "last_updated": "2025-08-17 00:17:03.415199",
+  "achievements": [
+    {
+      "id": "402409bc",
+      "title": "Code Updates",
+      "description": "Made various improvements and updates across 1 commits",
+      "date": "2025-08-13 06:53:29+00:00",
+      "commits": [
+        {
+          "sha": "e33063a958425e9bea626ee23c77301325c68d43",
+          "message": "Update README.md\n\nremoved, it was not aesthetic :/",
+          "author": "Shubhi Puntambekar",
+          "date": "2025-08-13 06:53:29+00:00",
+          "repository": "shubhipuntambekar",
+          "url": "https://github.com/shubhipuntambekar/shubhipuntambekar/commit/e33063a958425e9bea626ee23c77301325c68d43",
+          "files_changed": [
+            "README.md"
+          ],
+          "additions": 0,
+          "deletions": 0,
+          "significance_score": 0.9999999999999999,
+          "skills_used": [],
+          "category": null
+        }
+      ],
+      "skills_used": [],
+      "impact_score": 1.0,
+      "category": "maintenance"
+    },
+    {
+      "id": "bcd6a708",
+      "title": "Code Updates",
+      "description": "Made various improvements and updates across 1 commits",
+      "date": "2025-08-16 18:31:10+00:00",
+      "commits": [
+        {
+          "sha": "1a440685dab07c45dadd489826b02f4a480feaf8",
+          "message": "Initial commit",
+          "author": "Shubhi Puntambekar",
+          "date": "2025-08-16 18:31:10+00:00",
+          "repository": "shubhipuntambekar.github.io",
+          "url": "https://github.com/shubhipuntambekar/shubhipuntambekar.github.io/commit/1a440685dab07c45dadd489826b02f4a480feaf8",
+          "files_changed": [
+            ".gitignore",
+            "README.md"
+          ],
+          "additions": 0,
+          "deletions": 0,
+          "significance_score": 0.6,
+          "skills_used": [],
+          "category": null
+        }
+      ],
+      "skills_used": [],
+      "impact_score": 0.8,
+      "category": "maintenance"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Git",
+      "level": "beginner",
+      "frequency": 4,
+      "last_used": "2025-08-17 00:17:03.414368",
+      "related_skills": []
+    }
+  ],
+  "statistics": {
+    "total_achievements": 2,
+    "achievements_by_category": {
+      "maintenance": 2
+    },
+    "achievements_by_month": {
+      "2025-08": 2
+    },
+    "total_commits": 2,
+    "average_impact_score": 0.9,
+    "total_skills": 1,
+    "skills_by_level": {
+      "beginner": 1
+    },
+    "most_used_skills": [
+      {
+        "name": "Git",
+        "frequency": 4,
+        "level": "beginner"
+      }
+    ],
+    "first_achievement": "2025-08-13T06:53:29+00:00",
+    "latest_achievement": "2025-08-16T18:31:10+00:00",
+    "longest_streak": 1,
+    "repositories_worked_on": [
+      "shubhipuntambekar",
+      "shubhipuntambekar.github.io"
+    ],
+    "total_repositories": 2
+  }
+}
